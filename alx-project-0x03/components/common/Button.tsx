@@ -1,4 +1,4 @@
-import { type ButtonProps } from "@/interface";
+import { ButtonProps } from "@/interface";
 import React from "react";
 
 
